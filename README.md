@@ -4,8 +4,8 @@ Swift programmer / Rust programmer / Like Tauri ❤️❤️❤️❤️❤  / L
 
 #### My hobby
 
-- 🧑‍💻 Hacking around with SwiftUI/[OpenSwiftUI](https://github.com/OpenSwiftUIProject/OpenSwiftUI).
-- 📒 Contributing for [DocC projects](https://github.com/apple/swift-docc) as a member of Swift Documentation Workgroup
+- 🧑‍💻 Hacking around with tauri/[tauri](https://github.com/tauri-apps/tauri).
+- 📒 Contributing for [DocC projects](https://github.com/apple/swift-docc)
 - 🎮 Gaming with the following games
   - [LOL](https://https://www.leagueoflegends.com/)
 - 🚴🏻 I have a passion for biking
@@ -14,5 +14,5 @@ Swift programmer / Rust programmer / Like Tauri ❤️❤️❤️❤️❤  / L
 
 
 #### Links
-- 📝 Blog: [Kyle's Blog](https://github.com/BiBoyang/BoyangBlog)
+- 📝 Blog: [Boyang's Blog](https://github.com/BiBoyang/BoyangBlog)
 
