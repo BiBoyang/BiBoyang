@@ -1,17 +1,18 @@
-## Hi there 👋
+### Me！BiBoyang 👋
+
+Swift programmer / Rust programmer / Like Tauri ❤️❤️❤️❤️❤  / Like React Native ❤️❤️❤️  / avid reader
+
+#### My hobby
+
+- 🧑‍💻 Hacking around with SwiftUI/[OpenSwiftUI](https://github.com/OpenSwiftUIProject/OpenSwiftUI).
+- 📒 Contributing for [DocC projects](https://github.com/apple/swift-docc) as a member of Swift Documentation Workgroup
+- 🎮 Gaming with the following games
+  - [LOL](https://https://www.leagueoflegends.com/)
+- 🚴🏻 I have a passion for biking
+  - Trek Marlin 5 👍🏻👍🏻👍🏻
+  - Marin Four Corners 👍🏻👍🏻👍🏻👍🏻👍🏻
 
 
-**BiBoyang/BiBoyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- Love You
+#### Links
+- 📝 Blog: [Kyle's Blog](https://github.com/BiBoyang/BoyangBlog)
 
