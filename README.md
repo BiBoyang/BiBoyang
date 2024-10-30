@@ -11,7 +11,7 @@ Swift programmer / Rust programmer / Like Tauri ❤️❤️❤️❤️❤  / L
 - 🚴🏻 I have a passion for biking
   - Trek Marlin 5 👍🏻👍🏻👍🏻
   - Marin Four Corners 👍🏻👍🏻👍🏻👍🏻👍🏻
-
+  - Trek AL4 👍🏻
 
 #### Links
 - 📝 Blog: [Boyang's Blog](https://github.com/BiBoyang/BoyangBlog)
