@@ -1,6 +1,6 @@
 ### Me！BiBoyang 👋
 
-Swift programmer / Rust programmer / Like Tauri ❤️❤️❤️❤️❤  / Like React Native ❤️❤️❤️  / avid reader
+Objective-C/Swift programmer / Rust programmer / Like Tauri ❤️❤️❤️❤️❤  / Like React Native ❤️❤️❤️  / avid reader
 
 #### My hobby
 
