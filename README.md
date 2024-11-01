@@ -6,7 +6,7 @@ Objective-C/Swift programmer / Rust programmer / Like Tauri ❤️❤️❤️�
 
 - 🧑‍💻 Hacking around with tauri/[tauri](https://github.com/tauri-apps/tauri).
 - 📒 Contributing for [DocC projects](https://github.com/apple/swift-docc)
-- 🎮 Gaming with the following games
+- 🎮 Gaming with 
   - [LOL](https://https://www.leagueoflegends.com/)
 - 🚴🏻 I have a passion for biking
   - Trek Marlin 5 👍🏻👍🏻👍🏻
