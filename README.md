@@ -4,9 +4,9 @@ Objective-C/Swift programmer
 
 Rust programmer
 
-Tauri ❤️❤️❤️❤️
+Tauri ❤️❤️
 
-React Native ❤️❤️❤️ 
+React Native ❤️❤️❤️❤️❤️ 
 
 avid reader
 
