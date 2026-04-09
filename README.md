@@ -2,6 +2,8 @@
 
 Objective-C/Swift programmer
 
+- 🤖 Building AI agents and experimenting with agent workflows
+
 Rust programmer
 
 Tauri ❤️❤️
@@ -15,11 +17,10 @@ avid reader
 - 🧑‍💻 Hacking around with tauri/[tauri](https://github.com/tauri-apps/tauri).
 - 📒 Contributing for [DocC projects](https://github.com/apple/swift-docc)
 - 🎮 Gaming with 
-  - [LOL](https://https://www.leagueoflegends.com/)
+  - [LOL](https://www.leagueoflegends.com/)
 - 🚴🏻 I have a passion for biking
   - Trek Marlin 5 👍🏻👍🏻👍🏻
   - Marin Four Corners 👍🏻👍🏻👍🏻👍🏻👍🏻
-  - Trek AL4 👍🏻
 
 #### Links
 - 📝 Blog: [Boyang's Blog](https://github.com/BiBoyang/BoyangBlog)
