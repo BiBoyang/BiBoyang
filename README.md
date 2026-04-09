@@ -1,27 +1,22 @@
-### Me！BiBoyang 👋
+  ### Hi, I'm BiBoyang 👋🏻🤖💻🚴🏻
+    - 🍎 Objective-C / Swift developer
+    - 🦀 Rust developer
+    - ⚡️ Tauri enthusiast ❤️❤️
+    - 📱 React Native enthusiast ❤️❤️❤️❤️❤️
+    - 🤖 AI agent builder / explorer
+    - 📚 Avid reader
 
-Objective-C/Swift programmer
+  #### Interests
 
-- 🤖 Building AI agents and experimenting with agent workflows
+  - 🤖 AI agents, tooling, and workflow automation
+  - 🧑‍💻 Hacking around with [tauri](https://github.com/tauri-apps/tauri)
+  - 📒 Contributing to [DocC projects](https://github.com/apple/swift-docc)
+  - 🎮 Gaming
+    - [League of Legends](https://www.leagueoflegends.com/)
+  - 🚴🏻 Biking
+    - Trek Marlin 5 👍🏻👍🏻👍🏻
+    - Marin Four Corners 👍🏻👍🏻👍🏻👍🏻👍🏻
 
-Rust programmer
+  #### Links
 
-Tauri ❤️❤️
-
-React Native ❤️❤️❤️❤️❤️ 
-
-avid reader
-
-#### My hobby
-
-- 🧑‍💻 Hacking around with tauri/[tauri](https://github.com/tauri-apps/tauri).
-- 📒 Contributing for [DocC projects](https://github.com/apple/swift-docc)
-- 🎮 Gaming with 
-  - [LOL](https://www.leagueoflegends.com/)
-- 🚴🏻 I have a passion for biking
-  - Trek Marlin 5 👍🏻👍🏻👍🏻
-  - Marin Four Corners 👍🏻👍🏻👍🏻👍🏻👍🏻
-
-#### Links
-- 📝 Blog: [Boyang's Blog](https://github.com/BiBoyang/BoyangBlog)
-
+  - 📝 Blog: [Boyang's Blog](https://github.com/BiBoyang/BoyangBlog)
