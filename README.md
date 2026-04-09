@@ -1,10 +1,11 @@
   ### Hi, I'm BiBoyang 👋🏻🤖💻🚴🏻
-    - 🍎 Objective-C / Swift developer
-    - 🦀 Rust developer
-    - ⚡️ Tauri enthusiast ❤️❤️
-    - 📱 React Native enthusiast ❤️❤️❤️❤️❤️
-    - 🤖 AI agent builder / explorer
-    - 📚 Avid reader
+    
+  - 🍎 Objective-C / Swift developer
+  - 🦀 Rust developer
+  - ⚡️ Tauri enthusiast ❤️❤️
+  - 📱 React Native enthusiast ❤️❤️❤️❤️❤️
+  - 🤖 AI agent builder / explorer
+  - 📚 Avid reader
 
   #### Interests
 
