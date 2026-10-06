@@ -10,8 +10,8 @@ Every plugin and skill ships with CI; every skill carries its own declarative ev
 
 ## 🌍 Where things live
 
-- **GitHub** (this profile) — source and releases
-- 📝 **Blog** — [biboyang.github.io](https://biboyang.github.io/) — 长文、实验与《自顶向下拆 Agent》小册
+- 📝 **Blog** — [biboyang.github.io](https://biboyang.github.io/)
+- 📖 **Booklet** — [《自顶向下拆 Agent：从界面到地基》](https://biboyang.github.io/books/agent-ui/)
 
 ## ▶ Start here
 
