@@ -6,8 +6,8 @@ All-in AI Agent 的全栈开发者，AI Native 开发者。
 
 ## 🌍 在哪能找到我
 
-- **GitHub**（本主页）——源码与发布
-- 📝 **博客** — [biboyang.github.io](https://biboyang.github.io/) — 长文、实验与《自顶向下拆 Agent》小册
+- 📝 **博客** — [biboyang.github.io](https://biboyang.github.io/)
+- 📖 **小册** — [《自顶向下拆 Agent：从界面到地基》](https://biboyang.github.io/books/agent-ui/)
 
 ## ▶ 从这里开始
 
