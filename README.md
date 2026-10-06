@@ -1,11 +1,12 @@
 # Hi, I'm BiBoyang 👋🏻
 
-iOS developer (Objective-C / Swift) by trade, Rust developer by choice, AI-agent
-builder by obsession. I maintain **45 public source repositories** — DeepSeek Harness
-(DSH) plugins, a personal agent-skill collection with its own integrity gate, native
-macOS apps, and a Rust playground where a WeChat bot and a file-based agent prototype
-evolve side by side. Every plugin and skill ships with CI; every skill carries its own
-declarative evals.
+Full-stack developer going all-in on AI agents — AI-native builder. Now focused on
+multi-platform agent application architecture, agent memory, and evaluation. Formerly
+iOS, with a focus on performance optimization. Open-source and writing enthusiast,
+maintaining **45 public source repositories** — DeepSeek Harness (DSH) plugins, a
+personal agent-skill collection with its own integrity gate, native macOS apps, and a
+Rust playground where a WeChat bot and a file-based agent prototype evolve side by side.
+Every plugin and skill ships with CI; every skill carries its own declarative evals.
 
 ## 🌍 Where things live
 
@@ -104,7 +105,8 @@ forks-in-progress and small demos, named only in aggregate.*
 
 **中文介绍**
 
-**主业 iOS（Objective-C / Swift），副业 Rust，正在 All-in AI Agent。** 这个账号维护
+**All-in AI Agent 的全栈开发者，AI Native 开发者，现在专攻多端 agent 应用架构、
+agent 记忆与评测；曾经做 iOS 开发，主攻性能优化。** 这个账号维护
 45 个公开源码仓：DeepSeek Harness 插件（评测门禁、IM 桥接）、一套带机械完整性闸门
 的个人 agent skill 合集（火候）、原生 macOS 应用，以及一个 Rust 实验场——微信 Bot
 和文件型 Agent 原型在里面一起演化。向上游也交代码：**6 条已合并的外部 PR**（阿里
