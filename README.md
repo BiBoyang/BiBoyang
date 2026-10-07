@@ -35,7 +35,7 @@ Two repos lead the account:
 ## 🔧 Upstream & community contributions
 
 _Every repo below is external to `BiBoyang/*`; every entry in the first table is a
-**merged** pull request, re-derived 2026-10-06 from this account's own pull-request
+**merged** pull request, re-derived 2026-10-07 from this account's own pull-request
 history. The owner column names who owns the project, because the account name alone
 does not say whether that is a company or an individual._
 
@@ -44,10 +44,10 @@ does not say whether that is a company or an individual._
 | Repository | ★ | Merged PRs | 项目归属方 |
 | --- | --- | --- | --- |
 | awesome-dsh-plugin | 17,881 | [#12](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/12), [#13](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/13) — 收录 dsh-im-bridge 与 dsh-eval-harness 进精选列表 | `awesome-dsh-plugin` community org — the community catalog, no company behind it |
-| Waza | 7,111 | [#26](https://github.com/tw93/Waza/pull/26) 中文技术文写作规则、[#82](https://github.com/tw93/Waza/pull/82) `check` skill 新增「质疑路线而不仅是 diff」、[#88](https://github.com/tw93/Waza/pull/88) 本地抓取层绕过系统代理——堵住隐私契约的漏洞 | tw93 — individual maintainer |
-| skill-up | 493 | [#257](https://github.com/alibaba/skill-up/pull/257) 符号链接 skill 源导致零文件静默安装 + 修复 | **阿里巴巴 Alibaba** — the official `alibaba` org |
+| Waza | 7,134 | [#26](https://github.com/tw93/Waza/pull/26) 中文技术文写作规则、[#82](https://github.com/tw93/Waza/pull/82) `check` skill 新增「质疑路线而不仅是 diff」、[#88](https://github.com/tw93/Waza/pull/88) 本地抓取层绕过系统代理——堵住隐私契约的漏洞 | tw93 — individual maintainer |
+| skill-up | 1,140 | [#257](https://github.com/alibaba/skill-up/pull/257) 符号链接 skill 源导致零文件静默安装 + 修复 | **阿里巴巴 Alibaba** — the official `alibaba` org |
 
-**Open — 6 pull requests across 5 repositories (measured 2026-10-06, re-checked weekly):**
+**Open — 6 pull requests across 5 repositories (measured 2026-10-07, re-checked weekly):**
 
 _Open is open: not merged, not claimed. Two of these sit in official company orgs —
 **Anthropic** and **Microsoft** — and they are listed here exactly because they are
@@ -56,9 +56,9 @@ still pending, not in spite of it._
 | Repository | ★ | Open PR | 项目归属方 |
 | --- | --- | --- | --- |
 | skills | 179,860 | [anthropics/skills#1949](https://github.com/anthropics/skills/pull/1949) — skill-creator `quick_validate` 拒绝空 name/description 并校验引用文件存在性 | **Anthropic** — the official `anthropics` org |
-| waku | 1,567 | [egoist/waku#161](https://github.com/egoist/waku/pull/161) — 修复表格内拖选复制带出整行内容（Rust 命中判定从纯垂直距离改为二维包含） | egoist — individual maintainer |
+| waku | 1,566 | [egoist/waku#161](https://github.com/egoist/waku/pull/161) — 修复表格内拖选复制带出整行内容（Rust 命中判定从纯垂直距离改为二维包含） | egoist — individual maintainer |
 | eval-guide | 138 | [microsoft/eval-guide#16](https://github.com/microsoft/eval-guide/pull/16) — 修复重建说明里的过期路径 + 两条 frontmatter 非法 YAML | **Microsoft** — the official `microsoft` org |
-| skill-up | 493 | [#295](https://github.com/alibaba/skill-up/pull/295) 拒绝无任何可识别 matcher 的空规则断言、[#281](https://github.com/alibaba/skill-up/pull/281) `validate --skill` 内容完整性 linter、[#265](https://github.com/alibaba/skill-up/pull/265) 截止杀掉进程后合成 session-result 产物 | **阿里巴巴 Alibaba** — the official `alibaba` org |
+| skill-up | 1,140 | [#295](https://github.com/alibaba/skill-up/pull/295) 拒绝无任何可识别 matcher 的空规则断言、[#281](https://github.com/alibaba/skill-up/pull/281) `validate --skill` 内容完整性 linter、[#265](https://github.com/alibaba/skill-up/pull/265) 截止杀掉进程后合成 session-result 产物 | **阿里巴巴 Alibaba** — the official `alibaba` org |
 
 **The biggest merged row is a catalog and an individual's project, and the table says so
 rather than letting the star count imply otherwise.** The merged company row is Alibaba's
@@ -86,7 +86,7 @@ line: integrity checks and correctness fixes, proposed where the ecosystem will 
 | AIvsAI | Dual-AI terminal tool: Moonshot answers, DeepSeek reviews (MIT) |
 
 *Note: the eight repos above lead the account by stars (ordered by ★, measured
-2026-10-06). The remaining 30+ source repos are learning archives, forks-in-progress
+2026-10-07). The remaining 30+ source repos are learning archives, forks-in-progress
 and small demos, named only in aggregate.*
 
 ## ✍️ Writing
@@ -118,6 +118,6 @@ skill-up、tw93 的 Waza、DSH 社区精选列表），另有 **6 条 open PR** 
 * * *
 
 **This page is re-measured, not remembered.** Star counts, merged-pull-request counts
-and repository figures were re-measured on **2026-10-06** against the GitHub API and the
+and repository figures were re-measured on **2026-10-07** against the GitHub API and the
 account's public repository list, and each table says so. Anything that can't be measured
 is labeled instead of guessed.
