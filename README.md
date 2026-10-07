@@ -15,22 +15,22 @@ Every plugin and skill ships with CI; every skill carries its own declarative ev
 
 ## ▶ Start here
 
-Two repos lead the account, measured 2026-10-06:
+Two repos lead the account:
 
-| Repository | What it gives you | ★ |
-| --- | --- | --- |
-| dsh-eval-harness | DSH 插件评测工具：YAML 用例驱动真实 agent 回归评测，baseline 对比 PASS/WARN/FAIL 门禁 | 13 |
-| dsh-im-bridge | DSH 插件：把 DeepSeek Harness 桥接到 IM（v0.1 微信/iLink；钉钉/飞书/Telegram 预留），turn/approval 推送 + 远程批准/注入，持久去重/收敛分段/合并窗口 | 10 |
+| Repository | What it gives you |
+| --- | --- |
+| dsh-eval-harness | DSH 插件评测工具：YAML 用例驱动真实 agent 回归评测，baseline 对比 PASS/WARN/FAIL 门禁 |
+| dsh-im-bridge | DSH 插件：把 DeepSeek Harness 桥接到 IM（v0.1 微信/iLink；钉钉/飞书/Telegram 预留），turn/approval 推送 + 远程批准/注入，持久去重/收敛分段/合并窗口 |
 
 ## 🤖 Agents, plugins & skills
 
-| Repository | One-liner | Language | License | ★ |
-| --- | --- | --- | --- | --- |
-| dsh-eval-harness | Regression eval harness for DSH plugins: YAML cases, real agent runs, baseline-diff gates | TypeScript | — | 13 |
-| dsh-im-bridge | Bridge DeepSeek Harness into IM: push turns/approvals, approve or inject remotely | TypeScript | — | 10 |
-| huohou | 个人的 AI agent skill 合集——每个 skill 是一条练到成本能的工作纪律；`SKILL.md` + `references/` 渐进加载，每 skill 内置 evals 与触发评测（P/R/F1） | Python | — | 2 |
-| skill-quake | Fault-injection experiments for Agent Skills + `skill-guard`: the mechanical integrity gate (foundation accepts/rejects; grading is for judges) | Python | Apache-2.0 | 2 |
-| skills | 个人 Agent Skill 注册仓：`skills.yaml` 单源真理 + symlink 同步器 + CI 对每个 pin ref 跑 skill-guard 验收 | Shell | — | — |
+| Repository | One-liner | Language | License |
+| --- | --- | --- | --- |
+| dsh-eval-harness | Regression eval harness for DSH plugins: YAML cases, real agent runs, baseline-diff gates | TypeScript | — |
+| dsh-im-bridge | Bridge DeepSeek Harness into IM: push turns/approvals, approve or inject remotely | TypeScript | — |
+| huohou | 个人的 AI agent skill 合集——每个 skill 是一条练到成本能的工作纪律；`SKILL.md` + `references/` 渐进加载，每 skill 内置 evals 与触发评测（P/R/F1） | Python | — |
+| skill-quake | Fault-injection experiments for Agent Skills + `skill-guard`: the mechanical integrity gate (foundation accepts/rejects; grading is for judges) | Python | Apache-2.0 |
+| skills | 个人 Agent Skill 注册仓：`skills.yaml` 单源真理 + symlink 同步器 + CI 对每个 pin ref 跑 skill-guard 验收 | Shell | — |
 
 ## 🔧 Upstream & community contributions
 
@@ -47,7 +47,7 @@ does not say whether that is a company or an individual._
 | Waza | 7,111 | [#26](https://github.com/tw93/Waza/pull/26) 中文技术文写作规则、[#82](https://github.com/tw93/Waza/pull/82) `check` skill 新增「质疑路线而不仅是 diff」、[#88](https://github.com/tw93/Waza/pull/88) 本地抓取层绕过系统代理——堵住隐私契约的漏洞 | tw93 — individual maintainer |
 | skill-up | 493 | [#257](https://github.com/alibaba/skill-up/pull/257) 符号链接 skill 源导致零文件静默安装 + 修复 | **阿里巴巴 Alibaba** — the official `alibaba` org |
 
-**Open — 7 pull requests across 6 repositories (measured 2026-10-06, re-checked weekly):**
+**Open — 6 pull requests across 5 repositories (measured 2026-10-06, re-checked weekly):**
 
 _Open is open: not merged, not claimed. Two of these sit in official company orgs —
 **Anthropic** and **Microsoft** — and they are listed here exactly because they are
@@ -58,7 +58,6 @@ still pending, not in spite of it._
 | skills | 179,860 | [anthropics/skills#1949](https://github.com/anthropics/skills/pull/1949) — skill-creator `quick_validate` 拒绝空 name/description 并校验引用文件存在性 | **Anthropic** — the official `anthropics` org |
 | waku | 1,567 | [egoist/waku#161](https://github.com/egoist/waku/pull/161) — 修复表格内拖选复制带出整行内容（Rust 命中判定从纯垂直距离改为二维包含） | egoist — individual maintainer |
 | eval-guide | 138 | [microsoft/eval-guide#16](https://github.com/microsoft/eval-guide/pull/16) — 修复重建说明里的过期路径 + 两条 frontmatter 非法 YAML | **Microsoft** — the official `microsoft` org |
-| Qi_ObjcMsgHook | 135 | [QiShare/Qi_ObjcMsgHook#5](https://github.com/QiShare/Qi_ObjcMsgHook/pull/5) — fix fishhook bug | QiShare — individual maintainer |
 | skill-up | 493 | [#295](https://github.com/alibaba/skill-up/pull/295) 拒绝无任何可识别 matcher 的空规则断言、[#281](https://github.com/alibaba/skill-up/pull/281) `validate --skill` 内容完整性 linter、[#265](https://github.com/alibaba/skill-up/pull/265) 截止杀掉进程后合成 session-result 产物 | **阿里巴巴 Alibaba** — the official `alibaba` org |
 
 **The biggest merged row is a catalog and an individual's project, and the table says so
@@ -71,24 +70,24 @@ line: integrity checks and correctness fixes, proposed where the ecosystem will 
 
 ## 🍎 Apple platform
 
-| Repository | One-liner | ★ |
-| --- | --- | --- |
-| Cove | A native macOS NAS media player (Swift, MIT) | 1 |
-| NotchLauncher | A macOS launcher that lives in the notch — hover to reveal, click to launch (Swift, MIT) | — |
-| ForgeLoop | Swift coding-agent project: layered architecture, streaming, tool execution, cancellation semantics (MIT) | — |
-| ForgeLoopTUI | Lightweight Swift terminal UI library for streaming AI transcripts with in-place updates and tool placeholders (MIT) | 1 |
-| BBYDebugTool | LogTool v0.1 — Objective-C logging utility, the account's oldest repo (last commit 2020-04) | 2 |
+| Repository | One-liner |
+| --- | --- |
+| Cove | A native macOS NAS media player (Swift, MIT) |
+| NotchLauncher | A macOS launcher that lives in the notch — hover to reveal, click to launch (Swift, MIT) |
+| ForgeLoop | Swift coding-agent project: layered architecture, streaming, tool execution, cancellation semantics (MIT) |
+| ForgeLoopTUI | Lightweight Swift terminal UI library for streaming AI transcripts with in-place updates and tool placeholders (MIT) |
+| BBYDebugTool | LogTool v0.1 — Objective-C logging utility, the account's oldest repo (last commit 2020-04) |
 
 ## 🦀 Rust experiments
 
-| Repository | One-liner | ★ |
-| --- | --- | --- |
-| AMClaw | 实验场：微信 iLink Bot（扫码登录、会话合并、记忆、熔断、日报/周报回传）+ 最小文件型 Agent 原型（Plan-aware ReAct、watchdog、LLM record/replay）；破坏性演进是特性 | 2 |
-| AIvsAI | Dual-AI terminal tool: Moonshot answers, DeepSeek reviews (MIT) | 1 |
+| Repository | One-liner |
+| --- | --- |
+| AMClaw | 实验场：微信 iLink Bot（扫码登录、会话合并、记忆、熔断、日报/周报回传）+ 最小文件型 Agent 原型（Plan-aware ReAct、watchdog、LLM record/replay）；破坏性演进是特性 |
+| AIvsAI | Dual-AI terminal tool: Moonshot answers, DeepSeek reviews (MIT) |
 
-*Counting note: the table above is the account's eight most-starred source repos — **32★**
-together, measured 2026-10-06. The remaining 30+ source repos are learning archives,
-forks-in-progress and small demos, named only in aggregate.*
+*Note: the eight repos above lead the account by stars (ordered by ★, measured
+2026-10-06). The remaining 30+ source repos are learning archives, forks-in-progress
+and small demos, named only in aggregate.*
 
 ## ✍️ Writing
 
@@ -110,7 +109,7 @@ agent 记忆与评测；曾经做 iOS 开发，主攻性能优化。** 这个账
 45 个公开源码仓：DeepSeek Harness 插件（评测门禁、IM 桥接）、一套带机械完整性闸门
 的个人 agent skill 合集（火候）、原生 macOS 应用，以及一个 Rust 实验场——微信 Bot
 和文件型 Agent 原型在里面一起演化。向上游也交代码：**6 条已合并的外部 PR**（阿里
-skill-up、tw93 的 Waza、DSH 社区精选列表），另有 **7 条 open PR** 悬在 6 个外部仓上
+skill-up、tw93 的 Waza、DSH 社区精选列表），另有 **6 条 open PR** 悬在 5 个外部仓上
 ——其中两条分别开在 Anthropic 官方 skills（179.9k★）和 Microsoft 官方 eval-guide，
 逐条见上方 Upstream 一节。写作在博客 [biboyang.github.io](https://biboyang.github.io/)，
 系列长文已集结成小册《自顶向下拆 Agent：从界面到地基》。上面的每个数字都带测量日期，
