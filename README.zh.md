@@ -79,8 +79,8 @@ Anthropic 和 Microsoft 的 open PR 把这条线延伸出去：完整性检查�
 | AMClaw | 实验场：微信 iLink Bot（扫码登录、会话合并、记忆、熔断、日报/周报回传）+ 最小文件型 Agent 原型（Plan-aware ReAct、watchdog、LLM record/replay）；破坏性演进是特性 |
 | AIvsAI | 双 AI 终端工具：Moonshot 先答，DeepSeek 审（MIT） |
 
-_说明：上面 8 个仓是账号里★数最高的源码仓（按 star 排序，实测于 2026-10-19）。
-其余 30 多个源码仓是学习档案、进行中的 fork 和小 demo，只在这里汇总点名。_
+_说明：上面的仓是按主题挑选的，不是 star 排名。其余 30 多个源码仓是学习档案、
+进行中的 fork 和小 demo，只在这里汇总点名。_
 
 ## ✍️ 写作
 

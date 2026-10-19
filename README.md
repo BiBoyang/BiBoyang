@@ -86,9 +86,9 @@ line: integrity checks and correctness fixes, proposed where the ecosystem will 
 | AMClaw | 实验场：微信 iLink Bot（扫码登录、会话合并、记忆、熔断、日报/周报回传）+ 最小文件型 Agent 原型（Plan-aware ReAct、watchdog、LLM record/replay）；破坏性演进是特性 |
 | AIvsAI | Dual-AI terminal tool: Moonshot answers, DeepSeek reviews (MIT) |
 
-*Note: the eight repos above lead the account by stars (ordered by ★, measured
-2026-10-19). The remaining 30+ source repos are learning archives, forks-in-progress
-and small demos, named only in aggregate.*
+*Note: the tables above are curated by theme, not ranked by stars. The remaining
+30+ source repos are learning archives, in-progress forks and small demos, named
+only in aggregate.*
 
 ## ✍️ Writing
 
